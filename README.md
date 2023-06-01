@@ -33,4 +33,10 @@
 ### III:
 	Ainda trabalhando nessa versão, nela estou utilizando a técnica de verificar com a raiz do número, assim diminuo o número e faço com que o processamento fique mais rápido
 
-	Fazendo o teste conseguimos: XXmXX.XXXsS
+	Fazendo o teste conseguimos: XXmXX.XXXs
+
+### IV:
+	Trabalhando com assembly, assim conseguimos um desempenho melhor.
+	Código III em assembly.
+
+	Fazendo o teste conseguimos: XXmXX.XXXs
