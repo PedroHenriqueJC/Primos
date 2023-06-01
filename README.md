@@ -11,7 +11,7 @@
 	A ideia a princípio é realizar testes sem a ajuda de pesquisa
 
 ## Versões:
-	Em maioria das versões usamos a técnica de \frac{x}{i} < i. 
+	Em maioria das versões usamos a técnica de x/i < i. 
 	Sendo i números menores que x e x o número que estamos testando. 
 	Se a afirmação for verdadeira x é primo.
 
